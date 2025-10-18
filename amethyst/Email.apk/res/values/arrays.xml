@@ -426,10 +426,10 @@
         <item>@string/heavenly_stems_gui</item>
     </string-array>
     <string-array name="invoice_card_keyword">
-        <item>发票</item>
+        <item>bill</item>
     </string-array>
     <string-array name="invoice_card_pdf_keyword">
-        <item>发票</item>
+        <item>bill</item>
         <item>invoice</item>
     </string-array>
     <string-array name="kids_arrays">
