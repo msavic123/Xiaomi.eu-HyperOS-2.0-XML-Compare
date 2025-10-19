@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
+    <string name="RF_DalvikCacheLeftovers">Remains of uninstalled apps (Dalvik-Cache)</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -69,7 +69,7 @@
     <string name="apk_status_install">Installed</string>
     <string name="apk_status_installed_old">Old version</string>
     <string name="apk_status_uninstalled">Not installed</string>
-    <string name="apk_title_alipay_plugin">支付宝插件</string>
+    <string name="apk_title_alipay_plugin">Alipay plug-in</string>
     <string name="app_clean_group_document_recv">Received files</string>
     <string name="app_clean_group_document_send">Sent files</string>
     <string name="app_clean_group_image_recv">Received images</string>
@@ -1204,7 +1204,7 @@ We will share more once you're back online."</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
-    <string name="sys_cache_on_sdcard_item_name">缓存</string>
+    <string name="sys_cache_on_sdcard_item_name">Cache</string>
     <string name="terabyteShort">TB</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
