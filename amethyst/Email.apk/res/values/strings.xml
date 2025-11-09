@@ -1071,7 +1071,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="nav_app_bar_navigate_up_description">Navigate up</string>
     <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
-    <string name="net_error">网络错误，请稍后再试</string>
+    <string name="net_error">Network error, please try again later</string>
     <string name="network_error">No connection</string>
     <string name="network_not_available">"Can't connect to the network"</string>
     <string name="network_try_again">Check network connection and try again</string>
@@ -1109,7 +1109,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="notification_action_undo_delete">Deleted</string>
     <string name="notification_action_undo_remove_label">Label removed</string>
     <string name="notification_message">Notify about new messages in selected folders only?</string>
-    <string name="notification_mutli_message_content">点击查看</string>
+    <string name="notification_mutli_message_content">Click to view</string>
     <string name="notification_off">Off</string>
     <string name="notification_on">On</string>
     <string name="notify_channel_new_mail">Notify about new messages</string>
@@ -1198,7 +1198,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="pdf_viewer_file_damage_toast">PDF file is corrupted. Check this file and try again.</string>
     <string name="pdf_viewer_new_email">Send</string>
     <string name="pdf_viewer_reply">Reply</string>
-    <string name="pdf_viewer_reply_all">用此文件回复全部</string>
+    <string name="pdf_viewer_reply_all">Reply to all</string>
     <string name="pdf_viewer_save_signature">Save signature</string>
     <string name="pdf_viewer_sign_file_damage_toast">"This file doesn't exist"</string>
     <string name="pdf_viewer_signature">Sign PDF</string>
@@ -1548,7 +1548,7 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="train_card_title_change">Changed reservation successfully</string>
     <string name="train_card_title_change_arrival">Changed destination successfully</string>
     <string name="train_card_title_refund">Canceled ticket successfully</string>
-    <string formatted="false" name="train_travel_refund_info">退票费 ¥%s，应退票款 ¥%s</string>
+    <string formatted="false" name="train_travel_refund_info">Cancellation fee: ¥%s, Refund amount: ¥%s</string>
     <string name="translated_text_too_long">Select less text to copy and try again</string>
     <string name="translation_loading">Just a sec…</string>
     <string name="translation_no_result">No results</string>
